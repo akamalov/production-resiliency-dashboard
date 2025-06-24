@@ -70,7 +70,7 @@ git clone https://github.com/your-org/production-resiliency-dashboard.git
 cd production-resiliency-dashboard
 ```
 
-## Step 2: Set Up Environment Variables
+### Step 2: Set Up Environment Variables
 
 Copy the example environment file and fill in your actual credentials:
 
@@ -91,7 +91,7 @@ GRAFANA_URL=your_grafana_url
 GRAFANA_TOKEN=your_grafana_api_token
 ```
 
-## Step 3: Install Dependencies
+### Step 3: Install Dependencies
 
 
 # Install backend dependencies
@@ -108,7 +108,7 @@ cd ../frontend
 npm install
 ```
 
-# Step 4: Build the Frontend
+### Step 4: Build the Frontend
 
 ```
 cd frontend
